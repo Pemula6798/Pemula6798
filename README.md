@@ -26,25 +26,13 @@
 ## 🎮 Contribution Activity (Snake Animation)
 
 <!-- Animasi ular memakan grid kontribusi kontributor -->
+<!-- Gambar ini akan otomatis muncul setelah Anda menjalankan GitHub Action di tab Actions -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pemula6798/Pemula6798/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pemula6798/Pemula6798/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/Pemula6798/Pemula6798/output/github-snake.svg" width="100%" />
   </picture>
-</p>
-
----
-
-## 📈 Track Record & Achievements
-
-<!-- Trophies & Streaks tanpa link eksternal -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pemula6798&theme=darkhub&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pemula6798&background=0B0F19&title=F75C7E&currStreakLabel=00F0FF&currStreakNum=E2E8F0&fire=F75C7E&sideNums=E2E8F0&sideLabels=E2E8F0&dates=A0AEC0&hide_border=true" alt="GitHub Streak Stats" width="100%" />
 </p>
 
 ---
