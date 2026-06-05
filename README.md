@@ -23,7 +23,7 @@
 
 ---
 
-## 🎮 Contribution Activity (Snake Animation)
+## 🎮 Contribution Activity
 
 <!-- Animasi ular memakan grid kontribusi kontributor -->
 <!-- Gambar ini akan otomatis muncul setelah Anda menjalankan GitHub Action di tab Actions -->
